@@ -1,2 +1,5 @@
 ---
+name: Uptime Kuma Docker Socket
 version: 0.0.1
+slug: uptime-kuma
+description: It is a self-hosted monitoring tool
